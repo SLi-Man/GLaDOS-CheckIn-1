@@ -15,7 +15,7 @@
 ## 代码说明💻
 [Github Actions GLaDOS自动签到](https://blog.csdn.net/qq_38523017/article/details/109855848)
 
-## 使用说明💡
+## 使用说明💡1
 
 ### 一、Fork此仓库🍴
 ###### 注意：接下来的步骤都是在你自己fork后的仓库下进行操作
